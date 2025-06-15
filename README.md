@@ -1,4 +1,7 @@
-Python Projects: IBM WEIGHT Calculator, Random Password Generator & Weigher Check App
+Python Projects:
+1.IBM WEIGHT Calculator, 
+2.Random Password Generator 
+3.Weigher Check App
 
 This repository features three Python applications developed during my internship at Oasis Infobyte:
 
