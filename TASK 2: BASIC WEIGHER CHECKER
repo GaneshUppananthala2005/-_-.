@@ -23,6 +23,15 @@ if response.status_code == 200:
     print(f"\nWeather in {city.capitalize()}:")
     print(f"Temperature: {temp}°C")
     print(f"Humidity: {humidity}%")
-    print(f"Condition: {description.capitalize()}")
+    print(f"Condition: Enter city name: hyderabad,in
+
+
 else:
     print("\nCity not found or API error. Please check the city name or your API key.")
+
+
+
+Output: Weather in Hyderabad,in:
+Temperature: 28.23°C
+Humidity: 69%
+Condition: Haze{description.capitalize()}")
