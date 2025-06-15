@@ -26,3 +26,12 @@ try:
 
 except ValueError:
     print("Invalid input. Please enter numeric values.")
+
+
+OUTPUT:
+Enter your weight in kilograms: 55
+Enter your height in meters: 1.75
+
+Your BMI is: 17.96
+You are classified as: Underweight
+
